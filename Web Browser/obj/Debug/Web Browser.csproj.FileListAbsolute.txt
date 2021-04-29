@@ -1,0 +1,10 @@
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web Browser.csprojAssemblyReference.cache
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web_Browser.frmMain.resources
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\jeton\source\repos\jetonramadani\Windows-Forms-Web-Browser\Web Browser\obj\Debug\Web Browser.pdb
