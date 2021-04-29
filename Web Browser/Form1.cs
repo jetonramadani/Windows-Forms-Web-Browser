@@ -43,7 +43,13 @@ namespace Web_Browser
         private void frmMain_Load(object sender, EventArgs e)
         {
             webBrowser1.Navigate("www.google.com");
-            cboLocation.Text = "www.google.com";
         }
+
+        private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+            Text = webBrowser1.Document.Title;
+            cboLocation.Text = webBrowser1.Url.ToString();
+        }
+
     }
 }
